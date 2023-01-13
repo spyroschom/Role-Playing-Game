@@ -101,6 +101,35 @@
 
 # 3rd Deliverable 
 
+Για effects αποφάσησα να βάλω ομίχλη στον χάρτη. Πρώτα έκανα create εναν 2D renderer έκανα τις απαρέτητες ρυθμίσεις και μετά έφταξα έναν shader. Αφού ρήθμησα τον shader έφτιαξα ένα material που να χρησημοποιεί τον shader. Μετά έφτιαξα ένα sprite που να είναι μια λευκή είκονα. Τέλος, έκανα τις απαραίτητες ρυθμίσεις για να έχει ομίχλη όλος ο χαρτης.
+
+
+![image](https://user-images.githubusercontent.com/117836464/212289482-bb8e42a8-7c9e-482a-adf3-5c5fbb902d6c.png)
+
+
+Αποφάσησα να βάλω βροχή στη πίστα, έτσι δημηούργησα ένα particles system και με τις απαραίτητες ρυθμίσεις κατάφερα να το κάνω να μοιάζει με βροχή.
+
+
+![image](https://user-images.githubusercontent.com/117836464/212291720-cefdeec8-471b-4cbe-941b-b945ebabaed3.png)
+
+
+Για την δημηουργία μιας μπάρας ζωής βρήκα στο internet τα απαραίτητα assets και ακολούθησα το tutorial. Κάθε φορά που θα πέρνει ζημιά ο χαρακτήρας θα παίφτει ένα μικρο κομμάτι της μπάρας. Ενώ, με το potion θα πέρνει αυτό το χαμένο κομμάτι πίσω.
+
+
+![image](https://user-images.githubusercontent.com/117836464/212292155-83c5377e-d579-4a6a-bfb6-dc8937ca3859.png)
+
+
+Ακολουθόντας ένα tutorial στο internet κατάφερα να φτίαξω και σύστημα που να μετράει το σκορ. Έβαλα στον χαρτη κάποια νομίσματα για να τα συλλέγει ο χαρακτηρας και να του δίνουν πόντους ανάλογα το νόμισμα.
+
+
+
+![S_ItemHeavyOutline_CoinRed_00](https://user-images.githubusercontent.com/117836464/212294124-5d8c66b7-9866-4ccb-8eb4-e295009f8438.png)
+![S_ItemHeavyOutline_CoinGold_00](https://user-images.githubusercontent.com/117836464/212294129-39b80127-429b-4e6e-bcef-22aa55132276.png)
+![S_ItemHeavyOutline_CoinBlue_00](https://user-images.githubusercontent.com/117836464/212294134-ae4a39e2-470b-4990-b772-ddd606c0f397.png)
+
+
+
+
 
 # Conclusions
 
